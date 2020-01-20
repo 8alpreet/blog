@@ -1,4 +1,4 @@
-baseurl = "bhehar.com"
+baseurl = "https://bhehar.com"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
