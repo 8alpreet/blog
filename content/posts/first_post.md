@@ -1,8 +1,7 @@
 +++
-title = "To Beginners, From a Beginner"
+title = "The First Step"
 date = "2020-01-19"
-cover = "img/ouroburos.jpg"
-description = "You are not alone in your confusion and struggle"
+description = "A milemarker for future me"
 +++
 
 > "If I have seen further than others,
